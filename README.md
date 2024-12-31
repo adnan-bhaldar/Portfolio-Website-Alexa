@@ -1,7 +1,7 @@
 # Responsive Portfolio Website Alexa
 <div align = 'center'>
 
-<a href="https://adnan-bhaldar.github.io/CHIPS"><strong>Live Demo</strong></a>
+<a href="https://adnan-bhaldar.github.io/Portfolio-Website-Alexa"><strong>Live Demo</strong></a>
 
 ![preview img](/preview.png) 
 </div>
